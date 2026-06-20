@@ -1,124 +1,196 @@
-<h1 align="center">⚡ Fufi </h1>
+<div align="center">
 
-<h3 align="center">
-Full-Stack Developer • Discord Systems • Security • Automation
-</h3>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:00C6FF,50:0072FF,100:6A00FF&text=⚡%20FUFI%20⚡&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38" />
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=700&lines=Building+Modern+Web+Applications;Discord+Security+%26+Automation;Python+%7C+Flask+%7C+Node.js;Always+Learning+New+Technologies" />
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&pause=1000&color=00C6FF&center=true&vCenter=true&width=900&lines=Full-Stack+Developer;Discord+Security+Engineer;Automation+Architect;Building+ModForge;Creating+The+Future" />
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=DEIN_USERNAME&label=Profile+Views&style=for-the-badge" />
-</p>
+<br>
+
+<img src="https://img.shields.io/github/followers/DEIN_USERNAME?style=for-the-badge&color=00C6FF">
+<img src="https://img.shields.io/github/stars/DEIN_USERNAME?style=for-the-badge&color=6A00FF">
+<img src="https://komarev.com/ghpvc/?username=DEIN_USERNAME&style=for-the-badge&color=00C6FF">
+
+</div>
 
 ---
 
-## 🚀 About Me
+# ⚡ SYSTEM INFORMATION
 
 ```yaml
-Name: Fufi
-Location: Germany 🇩🇪
-Role: Full-Stack Developer
-Focus:
-  - Web Development
-  - Discord Security
-  - Automation Systems
-  - SaaS Products
-
-Current Project:
-  - ModForge
+┌─────────────────────────────────────┐
+│ USER: FUFI                          │
+│ ROLE: Full-Stack Developer          │
+│ LOCATION: Germany 🇩🇪              │
+│ STATUS: Online                      │
+│ FOCUS: Security & Automation        │
+│ PROJECT: ModForge                   │
+└─────────────────────────────────────┘
 ```
-
-Ich entwickle moderne Anwendungen mit Fokus auf:
-
-* 🛡️ Security
-* 🤖 Automatisierung
-* ⚡ Performance
-* 🎨 Benutzerfreundlichkeit
-* ☁️ Skalierbare Systeme
 
 ---
 
-# 🔥 Featured Project
+# 🌌 ABOUT ME
 
-## 🛡️ ModForge
+<img align="right" width="350" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXd3OHU1NXBuNmVxdHh0MmxzZDhwNjB5YzJnbm1obDF0YXJqYTFoNCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/coxQHKASG60HrHtvkt/giphy.gif">
 
-> Next-Generation Discord Security & Automation Platform
+```python
+class Fufi:
+
+    def __init__(self):
+        self.role = "Full Stack Developer"
+        self.languages = [
+            "Python",
+            "JavaScript",
+            "HTML",
+            "CSS"
+        ]
+
+        self.interests = [
+            "Cyber Security",
+            "Discord Systems",
+            "Automation",
+            "SaaS"
+        ]
+
+        self.project = "ModForge"
+
+    def build(self):
+        return "Creating awesome things 🚀"
+```
+
+<br><br><br><br>
+
+---
+
+# 🔥 CURRENT PROJECT
+
+<div align="center">
+
+## 🛡️ MODFORGE
+
+### Next Generation Discord Security Platform
+
+<img src="https://i.imgur.com/5M0nP6m.gif" width="800">
+
+</div>
 
 ### Features
 
-* Advanced Moderation
-* Anti-Nuke Protection
-* Automatische Sicherheitsregeln
-* Logging & Analytics
-* Dashboard Management
-* Server Protection Tools
-* Modern UI
+```diff
++ Advanced Moderation
++ Anti-Nuke Protection
++ Security Monitoring
++ AI Detection
++ Audit Logs
++ Server Analytics
++ Dashboard Management
++ Automated Rules
++ Backup Systems
++ Modern UI
+```
 
 ---
 
-# 🛠️ Tech Stack
+# 🛠 TECHNOLOGY ARSENAL
 
-### Frontend
+<div align="center">
 
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,js,bootstrap" />
-</p>
+## Frontend
 
-### Backend
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,bootstrap" />
 
-<p>
-<img src="https://skillicons.dev/icons?i=python,flask,nodejs" />
-</p>
+## Backend
 
-### Database
+<img src="https://skillicons.dev/icons?i=python,flask,nodejs,express" />
 
-<p>
-<img src="https://skillicons.dev/icons?i=postgres,sqlite" />
-</p>
+## Database
 
-### DevOps & Tools
+<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,sqlite,redis" />
 
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode" />
-</p>
+## DevOps
+
+<img src="https://skillicons.dev/icons?i=docker,linux,git,github,cloudflare,nginx,vscode" />
+
+</div>
 
 ---
 
-# 📊 GitHub Analytics
+# 🏆 GITHUB TROPHIES
 
-<p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=DEIN_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DEIN_USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
+<div align="center">
 
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=DEIN_USERNAME&theme=tokyonight&hide_border=true" />
-</p>
+<img src="https://github-profile-trophy.vercel.app/?username=DEIN_USERNAME&theme=tokyonight&no-frame=true&column=4&margin-w=15&margin-h=15" />
+
+</div>
 
 ---
 
-# 🎯 Goals 2026
+# 📈 GITHUB ANALYTICS
 
-* 🚀 Grow ModForge
-* 🌍 Build SaaS Products
-* 📈 Contribute to Open Source
-* 🔐 Learn Advanced Security
-* ⚡ Master Cloud Infrastructure
+<div align="center">
 
----
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=DEIN_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github">
 
-# 🤝 Connect
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DEIN_USERNAME&layout=compact&theme=tokyonight&hide_border=true">
 
-<p align="center">
-  <a href="https://github.com/DEIN_USERNAME">
-    <img src="https://skillicons.dev/icons?i=github" />
-  </a>
-</p>
+<img src="https://streak-stats.demolab.com?user=DEIN_USERNAME&theme=tokyonight&hide_border=true">
+
+</div>
 
 ---
 
-<p align="center">
-⭐ If you like my work, consider giving a star to my repositories.
-</p>
+# 📊 ACTIVITY GRAPH
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=DEIN_USERNAME&theme=tokyo-night&hide_border=true">
+
+</div>
+
+---
+
+# 🐍 CONTRIBUTION SNAKE
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg">
+
+</div>
+
+---
+
+# 🚀 ROADMAP 2026
+
+| Goal | Progress |
+|--------|----------|
+| ModForge Launch | ████████░░ 80% |
+| SaaS Platform | ██████░░░░ 60% |
+| Security Research | ███████░░░ 70% |
+| Cloud Mastery | █████░░░░░ 50% |
+| Open Source | ██████░░░░ 60% |
+
+---
+
+# 🌍 CONNECT
+
+<div align="center">
+
+<a href="https://github.com/DEIN_USERNAME">
+<img src="https://skillicons.dev/icons?i=github">
+</a>
+
+<a href="https://discord.com">
+<img src="https://skillicons.dev/icons?i=discord">
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+## ⚡ BUILDING THE FUTURE ⚡
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:00C6FF,50:0072FF,100:6A00FF"/>
+
+</div>
