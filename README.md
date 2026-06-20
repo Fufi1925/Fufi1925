@@ -1,16 +1,22 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, ich bin Laurenz</h1>
 
-<!--
-**Fufi1925/Fufi1925** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  Entwickler mit Fokus auf moderne Webanwendungen, Automatisierung und Discord-Systeme.
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Über mich
+
+- 🔭 Arbeite aktuell an **ModForge**
+- 🌱 Lerne ständig neue Technologien
+- 💡 Interesse an Security, Automatisierung und SaaS
+- ⚡ Ziel: Hochwertige Software entwickeln, die echten Mehrwert schafft
+
+### 🛠️ Tech Stack
+
+```txt
+Frontend   HTML • CSS • JavaScript • Bootstrap
+Backend    Python • Flask • Node.js
+Database   SQLite • PostgreSQL
+DevOps     Git • Docker • Linux
