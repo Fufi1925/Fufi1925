@@ -6,9 +6,9 @@
 
 <br>
 
-<img src="https://img.shields.io/github/followers/DEIN_USERNAME?style=for-the-badge&color=00C6FF">
-<img src="https://img.shields.io/github/stars/DEIN_USERNAME?style=for-the-badge&color=6A00FF">
-<img src="https://komarev.com/ghpvc/?username=DEIN_USERNAME&style=for-the-badge&color=00C6FF">
+<img src="https://img.shields.io/github/followers/Fufi1925?style=for-the-badge&color=00C6FF">
+<img src="https://img.shields.io/github/stars/Fufi1925?style=for-the-badge&color=6A00FF">
+<img src="https://komarev.com/ghpvc/?username=Fufi1925&style=for-the-badge&color=00C6FF">
 
 </div>
 
@@ -119,7 +119,7 @@ class Fufi:
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=DEIN_USERNAME&theme=tokyonight&no-frame=true&column=4&margin-w=15&margin-h=15" />
+<img src="https://github-profile-trophy.vercel.app/?username=Fufi1925&theme=tokyonight&no-frame=true&column=4&margin-w=15&margin-h=15" />
 
 </div>
 
@@ -129,11 +129,11 @@ class Fufi:
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=DEIN_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github">
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=Fufi1925&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DEIN_USERNAME&layout=compact&theme=tokyonight&hide_border=true">
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fufi1925&layout=compact&theme=tokyonight&hide_border=true">
 
-<img src="https://streak-stats.demolab.com?user=DEIN_USERNAME&theme=tokyonight&hide_border=true">
+<img src="https://streak-stats.demolab.com?user=Fufi1925&theme=tokyonight&hide_border=true">
 
 </div>
 
@@ -143,7 +143,7 @@ class Fufi:
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=DEIN_USERNAME&theme=tokyo-night&hide_border=true">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Fufi1925&theme=tokyo-night&hide_border=true">
 
 </div>
 
