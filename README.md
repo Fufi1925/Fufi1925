@@ -1,4 +1,4 @@
-<h1 align="center">⚡ Laurenz Spicker</h1>
+<h1 align="center">⚡ Fufi </h1>
 
 <h3 align="center">
 Full-Stack Developer • Discord Systems • Security • Automation
@@ -17,7 +17,7 @@ Full-Stack Developer • Discord Systems • Security • Automation
 ## 🚀 About Me
 
 ```yaml
-Name: Laurenz Spicker
+Name: Fufi
 Location: Germany 🇩🇪
 Role: Full-Stack Developer
 Focus:
