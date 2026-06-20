@@ -175,11 +175,11 @@ class Fufi:
 
 <div align="center">
 
-<a href="https://github.com/DEIN_USERNAME">
+<a href="https://github.com/Fufi1925">
 <img src="https://skillicons.dev/icons?i=github">
 </a>
 
-<a href="https://discord.com">
+<a href="[https://discord.com](https://discord.com/users/1442114722253242510)">
 <img src="https://skillicons.dev/icons?i=discord">
 </a>
 
